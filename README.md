@@ -25,9 +25,9 @@
 
 ### 3. 팀 소개
 
-[김동현](facebook.com/appreciateit)
+[김동현](https://facebook.com/appreciateit)
 
-[김윤창](facebook.com/rladbsckd)
+[김윤창](https://facebook.com/rladbsckd)
 
 ### 4. 사용법
 
