@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+**팀페이지 주소** -> https://kookmin-sw.github.io/2018-cap1-22
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 1. 프로잭트 소개
+심리상담 데이터를 이용한 텍스트 내 감정분석 시스템
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2. 소개 영상
 
-### Markdown
+프로젝트 소개하는 영상을 추가하세요
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. 팀 소개
 
-```markdown
-Syntax highlighted code block
+[김동현](https://facebook.com/appreciateit)
 
-# Header 1
-## Header 2
-### Header 3
+[김윤창](https://facebook.com/rladbsckd)
 
-- Bulleted
-- List
+### 4. 사용법
 
-1. Numbered
-2. List
+트로스트 앱 내의 감정스캐너 기능 사용
 
-**Bold** and _Italic_ and `Code` text
+### 5. 기타
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[트로스트 서비스 페이지](https://trost.co.kr)
