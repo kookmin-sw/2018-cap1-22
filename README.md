@@ -1,7 +1,5 @@
 **팀페이지 주소** -> https://kookmin-sw.github.io/2018-cap1-22
 
-**예시)** 22조  https://kookmin-sw.github.io/2018-cap1-22
-
 ### 1. 프로잭트 소개
 심리상담 데이터를 이용한 텍스트 내 감정분석 시스템
 
