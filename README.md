@@ -25,8 +25,9 @@
 
 ### 3. 팀 소개
 
-김동현 facebook.com/appreciateit
-김윤창 facebook.com/rladbsckd
+[김동현](facebook.com/appreciateit)
+
+[김윤창](facebook.com/rladbsckd)
 
 ### 4. 사용법
 
@@ -34,7 +35,7 @@
 
 ### 5. 기타
 
-trost.co.kr
+[트로스트 서비스 페이지](https://trost.co.kr)
 
 
 ## Markdown을 사용하여 내용꾸미기
