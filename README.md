@@ -15,12 +15,12 @@
 
 ### 4. 사용법
 
-트로스트 앱 내의 감정스캐너 기능 사용
+앱 내의 감정분석 기능 이용
 
 ### 5. 기타
 
-[트로스트 서비스 웹페이지](https://trost.co.kr)
+[서비스 웹페이지](https://trost.co.kr)
 
-[트로스트 안드로이드 App](https://play.google.com/store/apps/details?id=com.humart.trost2&hl=ko)
+[안드로이드 App](https://play.google.com/store/apps/details?id=com.humart.trost2&hl=ko)
 
-[트로스트 iOS App](https://itunes.apple.com/app/apple-store/id1034957818?mt=8)
+[iOS App](https://itunes.apple.com/app/apple-store/id1034957818?mt=8)
